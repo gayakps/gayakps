@@ -1,5 +1,5 @@
-- 👋 안녕하세요! 제 깃허브에 오신것을 진심으로 감사드립니다!
-- 👀 플러그인 개발 의뢰 : 김선우#6113 ( DISCORD )
+ [![Github stats](https://github-readme-stats.vercel.app/api?username=aaronLab&show_icons=true&theme=dark&count_private=true&include_all_commits=true)](#)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronLab&layout=compact&theme=dark&langs_count=100)](#)
 
 <!---
 gayakps/gayakps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
