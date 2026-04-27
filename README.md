@@ -6,7 +6,9 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayakps&layout=compact&theme=dark&langs_count=100)](#) 
 
-Major : Java Architecture
+Major : Java Architect
+
+Now : Blueorigin Development Tech Leader ( 26.04.22 ~ )
 
 </div>
  
