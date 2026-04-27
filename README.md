@@ -8,8 +8,6 @@
 
 Major : Java Architect
 
-Now : Blueorigin Development Tech Leader ( 26.04.22 ~ )
-
 </div>
  
 
